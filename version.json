@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.1",
+  "download_url_windows": "ضع_هنا_رابط_النسخ_الخاص_بملف_الويندوز_exe",
+  "download_url_android": "ضع_هنا_رابط_النسخ_الخاص_بملف_الأندرويد_apk",
+  "release_notes": "الإصدار التجريبي للويندوز والأندرويد بمخزن احترافي",
+  "is_mandatory": true
+}
