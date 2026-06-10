@@ -2,6 +2,6 @@
   "latest_version": "1.0.0",
   "download_url_windows": "https://github.com/alshreefbasem-10/alshreef-app/releases/download/v1.0.0/Alshreef_Setup_1.0.0.exe",
   "download_url_android": "https://github.com/alshreefbasem-10/alshreef-app/releases/download/v1.0.0/app-release.apk",
-  "release_notes": "الإصدار التجريبي للويندوز والأندرويد بمخزن احترافي",
+  "release_notes": "الإصدار التجريبي للويندوز والأندرويد ",
   "is_mandatory": true
 }
